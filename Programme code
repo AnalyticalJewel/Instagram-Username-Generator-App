@@ -1,0 +1,5 @@
+print("INSTAGRAM USERNAME GENERATOR\n")
+name=input("Please write your first name")
+hobby=input("Explain in one word how you describe your ideal self")
+username=hobby+name
+print(f"Your instagram username is:\n{username}")
